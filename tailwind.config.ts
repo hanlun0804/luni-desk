@@ -11,6 +11,13 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        "midnight-black": "#051923",
+        "slate-teal": "#587370",
+        "dark-slate-teal": "#475d5b",
+        "ivory-cream": "var(--ivory-cream)",
+        "deep-umber": "#591E08",
+        "desert-sand": "#DE9151",
+        "burnt-sienna": "#A5673F",
       },
     },
   },

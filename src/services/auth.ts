@@ -1,4 +1,4 @@
-import { prisma } from "@/lib/prisma";
+import prisma from "@/lib/prisma";
 import { comparePassword } from "@/utils/hashPassword";
 
 export async function authenticateUser(email: string, password: string) {
